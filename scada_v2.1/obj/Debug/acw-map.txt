@@ -1,0 +1,4 @@
+scada_v2._1.MainActivity, scada_v2.1;md52f7fe43dff9237a08a214b4d0f33b536.MainActivity
+scada_v2._1.MainActivity, scada_v2.1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52f7fe43dff9237a08a214b4d0f33b536.MainActivity
+scada_v2._1.MainActivity;md52f7fe43dff9237a08a214b4d0f33b536.MainActivity
+scada_v2._1.MainActivity;md52f7fe43dff9237a08a214b4d0f33b536.MainActivity
